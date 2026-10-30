@@ -90,7 +90,7 @@ An interactive Titanic Survival Analysis Dashboard was created using Microsoft P
 
 **Dashboard Preview**
 
-Add your dashboard screenshot here as `dashboard_preview.png`.
+![Titanic Dashboard](dashboard_preview-png.png)
 
 **Power BI File:** `SWYNEX_Task3_Titanic_Dashboard.pbix`
 
